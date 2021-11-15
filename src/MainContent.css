@@ -17,3 +17,18 @@ h1 {
   color: white;
   width: 30.4vw;
 }
+
+.button-plan-route {
+  width: 288px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  background: rgba(138, 138, 138, 0.6);
+  border-radius: 8px;
+
+  color: #ffffff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
