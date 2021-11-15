@@ -1,5 +1,6 @@
 # The F2E 前端 & UI 修煉精神時光屋，2021，第二週
 
+- 靜態頁面： https://jchans-learning.github.io/f2e2021-w2/
 - 2021-11-15 開始用 React 製作第二週的主題。
   - 使用 [weiiii](https://2021.thef2e.com/users/6296432819610583372) 的設計稿。
 
