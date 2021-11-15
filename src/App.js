@@ -1,6 +1,6 @@
 import NavBike from "./NavBike";
 import MainContent from "./MainContent";
-// import Footer from "./Footer";
+import FooterBike from "./FooterBike";
 
 // import logo from "./logo.svg";
 import "./App.css";
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <NavBike />
       <MainContent />
-      {/* <Footer /> */}
+      <FooterBike />
     </div>
   );
 }
