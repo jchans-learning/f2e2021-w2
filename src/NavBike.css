@@ -1,0 +1,25 @@
+.nav-bike {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.nav-bike-container {
+  margin-left: calc(16.3vw - 12px);
+  margin-right: calc(16.3vw - 12px);
+}
+
+.nav-text-logo {
+  color: #ffffff;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.nav-text {
+  color: #ffffff;
+}
+
+#basic-nav-dropdown {
+  color: #ffffff;
+}
