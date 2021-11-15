@@ -2,4 +2,8 @@
 
 - 2021-11-15 開始用 React 製作第二週的主題。
   - 使用 [weiiii](https://2021.thef2e.com/users/6296432819610583372) 的設計稿。
-  - Prettier 與 ESLint 設定參考： https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b
+
+## 參考資料
+
+- Prettier 與 ESLint 設定: https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b
+- gh-pages deploy: https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/
