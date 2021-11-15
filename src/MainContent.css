@@ -1,3 +1,19 @@
-body {
-  background: url(./images/index-bg-image.png);
+h1 {
+  color: white;
+
+  margin-top: 50vh;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 64px;
+}
+
+.main-content {
+  margin-left: calc(16.3vw + 12px);
+}
+
+.intro-text {
+  color: white;
+  width: 30.4vw;
 }
