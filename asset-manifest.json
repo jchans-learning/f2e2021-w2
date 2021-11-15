@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/f2e2021-w2/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/f2e2021-w2/static/js/main.120d4d47.chunk.js",
-    "main.js.map": "/f2e2021-w2/static/js/main.120d4d47.chunk.js.map",
-    "runtime-main.js": "/f2e2021-w2/static/js/runtime-main.74bdca96.js",
-    "runtime-main.js.map": "/f2e2021-w2/static/js/runtime-main.74bdca96.js.map",
-    "static/js/2.7a1f8470.chunk.js": "/f2e2021-w2/static/js/2.7a1f8470.chunk.js",
-    "static/js/2.7a1f8470.chunk.js.map": "/f2e2021-w2/static/js/2.7a1f8470.chunk.js.map",
-    "static/js/3.9897f392.chunk.js": "/f2e2021-w2/static/js/3.9897f392.chunk.js",
-    "static/js/3.9897f392.chunk.js.map": "/f2e2021-w2/static/js/3.9897f392.chunk.js.map",
+    "main.css": "/f2e2021-w2/static/css/main.3e31d251.chunk.css",
+    "main.js": "/f2e2021-w2/static/js/main.2a57c4f9.chunk.js",
+    "main.js.map": "/f2e2021-w2/static/js/main.2a57c4f9.chunk.js.map",
+    "runtime-main.js": "/f2e2021-w2/static/js/runtime-main.c0940949.js",
+    "runtime-main.js.map": "/f2e2021-w2/static/js/runtime-main.c0940949.js.map",
+    "static/css/2.383c0125.chunk.css": "/f2e2021-w2/static/css/2.383c0125.chunk.css",
+    "static/js/2.25a0e9c5.chunk.js": "/f2e2021-w2/static/js/2.25a0e9c5.chunk.js",
+    "static/js/2.25a0e9c5.chunk.js.map": "/f2e2021-w2/static/js/2.25a0e9c5.chunk.js.map",
+    "static/js/3.c8856c73.chunk.js": "/f2e2021-w2/static/js/3.c8856c73.chunk.js",
+    "static/js/3.c8856c73.chunk.js.map": "/f2e2021-w2/static/js/3.c8856c73.chunk.js.map",
     "index.html": "/f2e2021-w2/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/f2e2021-w2/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.7a1f8470.chunk.js.LICENSE.txt": "/f2e2021-w2/static/js/2.7a1f8470.chunk.js.LICENSE.txt"
+    "static/css/2.383c0125.chunk.css.map": "/f2e2021-w2/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.3e31d251.chunk.css.map": "/f2e2021-w2/static/css/main.3e31d251.chunk.css.map",
+    "static/js/2.25a0e9c5.chunk.js.LICENSE.txt": "/f2e2021-w2/static/js/2.25a0e9c5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/f2e2021-w2/static/media/index-bg-image.80277219.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.74bdca96.js",
-    "static/js/2.7a1f8470.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.120d4d47.chunk.js"
+    "static/js/runtime-main.c0940949.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.25a0e9c5.chunk.js",
+    "static/css/main.3e31d251.chunk.css",
+    "static/js/main.2a57c4f9.chunk.js"
   ]
 }
