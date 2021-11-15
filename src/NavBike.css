@@ -16,8 +16,25 @@
   line-height: 36px;
 }
 
+.nav-link-item {
+  width: calc(7rem - 16px);
+}
+
 .nav-text {
+  width: calc(7rem - 16px);
   color: #ffffff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.login-button {
+  background: rgba(204, 204, 204, 0.35);
+  border-radius: 8px;
 }
 
 #basic-nav-dropdown {
