@@ -12,29 +12,27 @@ function NavBike() {
     <div>
       <Navbar className="nav-bike" expand="lg">
         <Container className="nav-bike-container">
-          <div>
-            <Navbar.Brand href="#home">
-              <span className="nav-text-logo">YouRoad</span>
-            </Navbar.Brand>
-          </div>
-          <div>
-            <Navbar.Toggle aria-controls="basic-navbar-nav" />
-            <Navbar.Collapse id="basic-navbar-nav">
-              <Nav className="me-auto">
-                <Nav.Link href="#nav-route-plan">
-                  <div className="nav-text">規劃路線</div>
-                </Nav.Link>
-                <Nav.Link href="#nav-youbike-map">
-                  <div className="nav-text">YouBike地圖</div>
-                </Nav.Link>
-                <Nav.Link href="#nav-bike-routes">
-                  <div className="nav-text">自行車路線</div>
-                </Nav.Link>
-                <Nav.Link href="#nav-login-button">
-                  <div className="nav-text login-button">登入</div>
-                </Nav.Link>
+          <Navbar.Brand href="#home">
+            <span className="nav-text-logo">YouRoad</span>
+          </Navbar.Brand>
 
-                {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Collapse id="basic-navbar-nav">
+            <Nav className="me-auto">
+              <Nav.Link href="#nav-route-plan">
+                <div className="nav-text">規劃路線</div>
+              </Nav.Link>
+              <Nav.Link href="#nav-youbike-map">
+                <div className="nav-text">YouBike地圖</div>
+              </Nav.Link>
+              <Nav.Link href="#nav-bike-routes">
+                <div className="nav-text">自行車路線</div>
+              </Nav.Link>
+              <Nav.Link href="#nav-login-button">
+                <div className="nav-text login-button">登入</div>
+              </Nav.Link>
+
+              {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                   <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                   <NavDropdown.Item href="#action/3.2">
                     Another action
@@ -47,9 +45,8 @@ function NavBike() {
                     Separated link
                   </NavDropdown.Item>
                 </NavDropdown> */}
-              </Nav>
-            </Navbar.Collapse>
-          </div>
+            </Nav>
+          </Navbar.Collapse>
         </Container>
       </Navbar>
     </div>

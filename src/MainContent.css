@@ -39,3 +39,30 @@ h1 {
     margin-top: 40vh;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  h1 {
+    margin-top: 30vh;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .main-content {
+    margin-left: calc(10vw + 12px);
+    margin-right: calc(10vw + 12px);
+  }
+
+  .intro-text {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    margin-top: 15vh;
+  }
+
+  .button-plan-route {
+    width: 100%;
+  }
+}

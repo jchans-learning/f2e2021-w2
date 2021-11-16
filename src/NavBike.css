@@ -40,3 +40,10 @@
 #basic-nav-dropdown {
   color: #ffffff;
 }
+
+@media screen and (max-width: 992px) {
+  .nav-bike-container {
+    margin-left: calc(10vw - 12px);
+    margin-right: unset;
+  }
+}
