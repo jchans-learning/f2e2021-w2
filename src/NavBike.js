@@ -18,7 +18,7 @@ function NavBike() {
 
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav className="ms-auto">
               <Nav.Link href="#nav-route-plan">
                 <div className="nav-text">規劃路線</div>
               </Nav.Link>
