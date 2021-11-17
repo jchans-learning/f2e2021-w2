@@ -1,11 +1,20 @@
 import React from "react";
+import { useState } from "react";
 import LandingPage from "./LandingPage";
 import "./MainContent.css";
 
 function MainContent() {
+  const [hideLandingPage, setHideLandingPage] = useState(false);
+
+  const startPlanning = () => {
+    setHideLandingPage(true);
+  };
+
   return (
     <div>
-      <LandingPage />
+      {hideLandingPage ? null : (
+        <LandingPage startPlanningIsClicked={startPlanning} />
+      )}
     </div>
   );
 }

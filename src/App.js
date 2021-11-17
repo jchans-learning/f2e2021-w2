@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <NavBike />
-      <MainContent />
+      <MainContent showLanding="true" />
       <FooterBike />
     </div>
   );

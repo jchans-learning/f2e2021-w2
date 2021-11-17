@@ -1,6 +1,7 @@
 import React from "react";
-
-function LandingPage() {
+// import { useState } from "react";
+import PropTypes from "prop-types";
+function LandingPage(props) {
   return (
     <div>
       <div className="main-content">
@@ -10,10 +11,19 @@ function LandingPage() {
           Youbike 讓您快速規劃您的活動。
         </div>
 
-        <div className="button-plan-route">規劃路線</div>
+        <div
+          className="button-plan-route"
+          onClick={props.startPlanningIsClicked}
+        >
+          規劃路線
+        </div>
       </div>
     </div>
   );
 }
+
+LandingPage.propTypes = {
+  startPlanningIsClicked: PropTypes.func.isRequired,
+};
 
 export default LandingPage;
