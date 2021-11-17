@@ -35,3 +35,20 @@
   height: 24px;
   background-image: url(./images/footerIcons/icon-line.svg);
 }
+
+@media screen and (max-width: 600px) {
+  .footer-bike-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .footer-bike-container {
+    margin-left: 10vw;
+    margin-right: 10vw;
+  }
+
+  .icon-list {
+    margin: 0.35rem 0 0 0;
+  }
+}

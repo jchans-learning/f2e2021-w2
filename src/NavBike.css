@@ -46,7 +46,7 @@
 @media screen and (max-width: 992px) {
   .nav-bike-container {
     width: 100%;
-    margin-left: calc(10vw - 12px);
+    margin-left: 10vw;
     margin-right: unset;
   }
 }
