@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/f2e2021-w2/static/css/main.c89c1d86.chunk.css",
+    "main.css": "/f2e2021-w2/static/css/main.3a02b8e1.chunk.css",
     "main.js": "/f2e2021-w2/static/js/main.7d998c31.chunk.js",
     "main.js.map": "/f2e2021-w2/static/js/main.7d998c31.chunk.js.map",
     "runtime-main.js": "/f2e2021-w2/static/js/runtime-main.9c2ad55a.js",
@@ -12,7 +12,7 @@
     "static/js/3.16bd7be7.chunk.js.map": "/f2e2021-w2/static/js/3.16bd7be7.chunk.js.map",
     "index.html": "/f2e2021-w2/index.html",
     "static/css/2.383c0125.chunk.css.map": "/f2e2021-w2/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.c89c1d86.chunk.css.map": "/f2e2021-w2/static/css/main.c89c1d86.chunk.css.map",
+    "static/css/main.3a02b8e1.chunk.css.map": "/f2e2021-w2/static/css/main.3a02b8e1.chunk.css.map",
     "static/js/2.d45d634b.chunk.js.LICENSE.txt": "/f2e2021-w2/static/js/2.d45d634b.chunk.js.LICENSE.txt",
     "static/media/FooterBike.css": "/f2e2021-w2/static/media/icon-line.53035376.svg",
     "static/media/App.css": "/f2e2021-w2/static/media/index-bg-image.80277219.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.9c2ad55a.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.d45d634b.chunk.js",
-    "static/css/main.c89c1d86.chunk.css",
+    "static/css/main.3a02b8e1.chunk.css",
     "static/js/main.7d998c31.chunk.js"
   ]
 }
