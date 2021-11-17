@@ -3,8 +3,10 @@
 }
 
 .nav-bike-container {
-  margin-left: calc(16.3vw - 12px);
-  margin-right: calc(16.3vw - 32px);
+  /* margin-left: 16.3vw;
+  margin-right: 16.3vw; */
+  margin-left: 16.3vw;
+  margin-right: calc(16.3vw - 8px);
 }
 
 .nav-text-logo {

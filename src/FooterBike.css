@@ -11,3 +11,27 @@
 .footer-text-left {
   color: #ffffff;
 }
+
+.icon-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon-facebook {
+  margin: 0 0.75rem;
+  width: 24px;
+  height: 24px;
+  background-image: url(./images/footerIcons/icon-facebook.svg);
+}
+.icon-instagram {
+  margin: 0 0.75rem;
+  width: 24px;
+  height: 24px;
+  background-image: url(./images/footerIcons/icon-instagram.svg);
+}
+.icon-line {
+  margin: 0 0 0 0.75rem;
+  width: 24px;
+  height: 24px;
+  background-image: url(./images/footerIcons/icon-line.svg);
+}
