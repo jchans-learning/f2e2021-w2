@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/f2e2021-w2/static/css/main.9a05df6c.chunk.css",
-    "main.js": "/f2e2021-w2/static/js/main.a4a6aa0b.chunk.js",
-    "main.js.map": "/f2e2021-w2/static/js/main.a4a6aa0b.chunk.js.map",
-    "runtime-main.js": "/f2e2021-w2/static/js/runtime-main.9c2ad55a.js",
-    "runtime-main.js.map": "/f2e2021-w2/static/js/runtime-main.9c2ad55a.js.map",
+    "main.css": "/f2e2021-w2/static/css/main.7b5f078f.chunk.css",
+    "main.js": "/f2e2021-w2/static/js/main.d70287c7.chunk.js",
+    "main.js.map": "/f2e2021-w2/static/js/main.d70287c7.chunk.js.map",
+    "runtime-main.js": "/f2e2021-w2/static/js/runtime-main.04a6b9ac.js",
+    "runtime-main.js.map": "/f2e2021-w2/static/js/runtime-main.04a6b9ac.js.map",
     "static/css/2.383c0125.chunk.css": "/f2e2021-w2/static/css/2.383c0125.chunk.css",
-    "static/js/2.0e6c7ec5.chunk.js": "/f2e2021-w2/static/js/2.0e6c7ec5.chunk.js",
-    "static/js/2.0e6c7ec5.chunk.js.map": "/f2e2021-w2/static/js/2.0e6c7ec5.chunk.js.map",
-    "static/js/3.16bd7be7.chunk.js": "/f2e2021-w2/static/js/3.16bd7be7.chunk.js",
-    "static/js/3.16bd7be7.chunk.js.map": "/f2e2021-w2/static/js/3.16bd7be7.chunk.js.map",
+    "static/js/2.9871de2a.chunk.js": "/f2e2021-w2/static/js/2.9871de2a.chunk.js",
+    "static/js/2.9871de2a.chunk.js.map": "/f2e2021-w2/static/js/2.9871de2a.chunk.js.map",
+    "static/js/3.6298c5cd.chunk.js": "/f2e2021-w2/static/js/3.6298c5cd.chunk.js",
+    "static/js/3.6298c5cd.chunk.js.map": "/f2e2021-w2/static/js/3.6298c5cd.chunk.js.map",
     "index.html": "/f2e2021-w2/index.html",
     "static/css/2.383c0125.chunk.css.map": "/f2e2021-w2/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.9a05df6c.chunk.css.map": "/f2e2021-w2/static/css/main.9a05df6c.chunk.css.map",
-    "static/js/2.0e6c7ec5.chunk.js.LICENSE.txt": "/f2e2021-w2/static/js/2.0e6c7ec5.chunk.js.LICENSE.txt",
+    "static/css/main.7b5f078f.chunk.css.map": "/f2e2021-w2/static/css/main.7b5f078f.chunk.css.map",
+    "static/js/2.9871de2a.chunk.js.LICENSE.txt": "/f2e2021-w2/static/js/2.9871de2a.chunk.js.LICENSE.txt",
     "static/media/FooterBike.css": "/f2e2021-w2/static/media/icon-line.53035376.svg",
     "static/media/App.css": "/f2e2021-w2/static/media/index-bg-image.80277219.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c2ad55a.js",
+    "static/js/runtime-main.04a6b9ac.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.0e6c7ec5.chunk.js",
-    "static/css/main.9a05df6c.chunk.css",
-    "static/js/main.a4a6aa0b.chunk.js"
+    "static/js/2.9871de2a.chunk.js",
+    "static/css/main.7b5f078f.chunk.css",
+    "static/js/main.d70287c7.chunk.js"
   ]
 }
