@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 // import NavDropdown from "react-bootstrap/NavDropdown";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./NavBike.css";
+import "./styles/NavBike.css";
 
 function NavBike() {
   return (

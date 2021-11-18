@@ -1,6 +1,6 @@
-import NavBike from "./NavBike";
-import MainContent from "./MainContent";
-import FooterBike from "./FooterBike";
+import NavBike from "./components/NavBike";
+import MainContent from "./components/MainContent";
+import FooterBike from "./components/FooterBike";
 
 // import logo from "./logo.svg";
 import "./App.css";

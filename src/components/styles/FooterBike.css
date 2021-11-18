@@ -21,19 +21,19 @@
   margin: 0 0.75rem;
   width: 24px;
   height: 24px;
-  background-image: url(./images/footerIcons/icon-facebook.svg);
+  background-image: url(../images/footerIcons/icon-facebook.svg);
 }
 .icon-instagram {
   margin: 0 0.75rem;
   width: 24px;
   height: 24px;
-  background-image: url(./images/footerIcons/icon-instagram.svg);
+  background-image: url(../images/footerIcons/icon-instagram.svg);
 }
 .icon-line {
   margin: 0 0 0 0.75rem;
   width: 24px;
   height: 24px;
-  background-image: url(./images/footerIcons/icon-line.svg);
+  background-image: url(../images/footerIcons/icon-line.svg);
 }
 
 @media screen and (max-width: 600px) {

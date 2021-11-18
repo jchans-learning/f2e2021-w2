@@ -3,7 +3,7 @@ import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./FooterBike.css";
+import "./styles/FooterBike.css";
 
 function FooterBike() {
   return (

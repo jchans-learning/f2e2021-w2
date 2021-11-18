@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
-import LandingPage from "./components/LandingPage";
-import "./MainContent.css";
+import LandingPage from "./LandingPage";
+import "./styles/MainContent.css";
 
 function MainContent() {
   const [hideLandingPage, setHideLandingPage] = useState(false);
