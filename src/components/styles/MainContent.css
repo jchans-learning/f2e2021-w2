@@ -1,7 +1,5 @@
-h1 {
+.page-title {
   color: white;
-
-  margin-top: 50vh;
 
   font-style: normal;
   font-weight: bold;
@@ -11,39 +9,7 @@ h1 {
 
 .main-content {
   margin-left: calc(16.3vw + 12px);
-}
-
-.intro-text {
-  color: white;
-  width: 30.4vw;
-}
-
-.button-plan-route {
-  width: 288px;
-  margin-top: 2rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-
-  background: rgba(138, 138, 138, 0.6);
-  border-radius: 8px;
-
-  color: #ffffff;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-@media screen and (max-width: 1440px) {
-  h1 {
-    margin-top: 40vh;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  h1 {
-    margin-top: 30vh;
-  }
+  margin-right: calc(16.3vw + 12px);
 }
 
 @media screen and (max-width: 992px) {
@@ -51,18 +17,3 @@ h1 {
     margin-left: calc(10vw + 12px);
     margin-right: calc(10vw + 12px);
   }
-
-  .intro-text {
-    width: 100%;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  h1 {
-    margin-top: 15vh;
-  }
-
-  .button-plan-route {
-    width: 100%;
-  }
-}

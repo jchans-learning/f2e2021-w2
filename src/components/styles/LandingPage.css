@@ -1,0 +1,52 @@
+.landing-page {
+  height: 50vh;
+}
+
+.intro-text {
+  color: white;
+  width: 30.4vw;
+}
+
+.button-plan-route {
+  width: 288px;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  background: rgba(138, 138, 138, 0.6);
+  border-radius: 8px;
+
+  color: #ffffff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 1440px) {
+  .landing-page {
+    margin-top: 40vh;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .landing-page {
+    margin-top: 30vh;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .intro-text {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .landing-page {
+    margin-top: 15vh;
+  }
+
+  .button-plan-route {
+    width: 100%;
+  }
+}
