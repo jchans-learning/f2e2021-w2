@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import LandingPage from "./LandingPage";
+import BikeRoutePlan from "./BikeRoutePlan";
 import "./styles/MainContent.css";
 
 function MainContent() {
@@ -12,7 +13,9 @@ function MainContent() {
 
   return (
     <div>
-      {hideLandingPage ? null : (
+      {hideLandingPage ? (
+        <BikeRoutePlan />
+      ) : (
         <LandingPage startPlanningIsClicked={startPlanning} />
       )}
     </div>
