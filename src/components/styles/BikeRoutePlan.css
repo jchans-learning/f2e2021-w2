@@ -1,0 +1,14 @@
+@keyframes example {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.bike-route-plan {
+  animation-name: example;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
