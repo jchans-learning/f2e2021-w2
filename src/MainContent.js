@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import LandingPage from "./LandingPage";
+import LandingPage from "./components/LandingPage";
 import "./MainContent.css";
 
 function MainContent() {
