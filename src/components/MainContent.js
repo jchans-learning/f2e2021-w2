@@ -12,7 +12,7 @@ function MainContent() {
   };
 
   return (
-    <div>
+    <div className="main-content">
       {hideLandingPage ? (
         <BikeRoutePlan />
       ) : (
