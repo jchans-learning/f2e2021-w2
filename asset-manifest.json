@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/f2e2021-w2/static/css/main.03b41ff9.chunk.css",
+    "main.css": "/f2e2021-w2/static/css/main.d1f279ca.chunk.css",
     "main.js": "/f2e2021-w2/static/js/main.c40370fa.chunk.js",
     "main.js.map": "/f2e2021-w2/static/js/main.c40370fa.chunk.js.map",
     "runtime-main.js": "/f2e2021-w2/static/js/runtime-main.04a6b9ac.js",
@@ -12,16 +12,16 @@
     "static/js/3.6298c5cd.chunk.js.map": "/f2e2021-w2/static/js/3.6298c5cd.chunk.js.map",
     "index.html": "/f2e2021-w2/index.html",
     "static/css/2.383c0125.chunk.css.map": "/f2e2021-w2/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.03b41ff9.chunk.css.map": "/f2e2021-w2/static/css/main.03b41ff9.chunk.css.map",
+    "static/css/main.d1f279ca.chunk.css.map": "/f2e2021-w2/static/css/main.d1f279ca.chunk.css.map",
     "static/js/2.6cc4ae2f.chunk.js.LICENSE.txt": "/f2e2021-w2/static/js/2.6cc4ae2f.chunk.js.LICENSE.txt",
     "static/media/FooterBike.css": "/f2e2021-w2/static/media/icon-line.53035376.svg",
-    "static/media/index.css": "/f2e2021-w2/static/media/index-bg-image.80277219.png"
+    "static/media/index.css": "/f2e2021-w2/static/media/index-bg-image.685e7f98.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.04a6b9ac.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.6cc4ae2f.chunk.js",
-    "static/css/main.03b41ff9.chunk.css",
+    "static/css/main.d1f279ca.chunk.css",
     "static/js/main.c40370fa.chunk.js"
   ]
 }
