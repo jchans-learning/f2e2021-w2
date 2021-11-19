@@ -1,14 +1,32 @@
 import React from "react";
+import { useState, useEffect } from "react";
+import PropTypes from "prop-types";
+
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./styles/FooterBike.css";
 
-function FooterBike() {
+function FooterBike(props) {
+  const { planRouteTheme } = props;
+  const [isPlanRouteTheme, setIsPlanRouteTheme] = useState(false);
+
+  useEffect(() => {
+    planRouteTheme ? setIsPlanRouteTheme(true) : null;
+    console.log("planRouteTheme Footer: ", planRouteTheme);
+  });
+
   return (
     <div>
-      <Navbar className="footer-bike fixed-bottom" expand="lg">
+      <Navbar
+        className={
+          isPlanRouteTheme
+            ? "footer-bike fixed-bottom footer-bike-plan-route-bg"
+            : "footer-bike fixed-bottom"
+        }
+        expand="lg"
+      >
         {/* use fixed-bottome class to make sticky footer */}
         <Container className="footer-bike-container">
           <div className="footer-text-left">
@@ -24,5 +42,9 @@ function FooterBike() {
     </div>
   );
 }
+
+FooterBike.propTypes = {
+  planRouteTheme: PropTypes.bool.isRequired,
+};
 
 export default FooterBike;

@@ -11,7 +11,6 @@
 
 .nav-text-logo {
   color: #ffffff;
-
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -49,4 +48,23 @@
     margin-left: 10vw;
     margin-right: unset;
   }
+}
+
+.nav-bike-plan-route {
+  background: #1e1e1e;
+  box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.35);
+
+  transition: 1.5s;
+}
+
+.nav-text-plan-route-color {
+  color: #5368f0;
+
+  transition: 1.5s;
+}
+
+.nav-logo-plan-route-bg {
+  background: unset;
+
+  transition: 1.5s;
 }
