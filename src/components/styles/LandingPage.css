@@ -23,6 +23,10 @@
   align-items: center;
 }
 
+.button-plan-route:hover {
+  cursor: pointer;
+}
+
 @media screen and (max-width: 1440px) {
   .landing-page {
     margin-top: 40vh;
