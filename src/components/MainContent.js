@@ -7,16 +7,12 @@ import "./styles/MainContent.css";
 function MainContent() {
   const [hideLandingPage, setHideLandingPage] = useState(false);
 
-  const startPlanning = () => {
-    setHideLandingPage(true);
-  };
-
   return (
     <div className="main-content">
       {hideLandingPage ? (
         <BikeRoutePlan />
       ) : (
-        <LandingPage startPlanningIsClicked={startPlanning} />
+        <LandingPage setHideLandingPage={setHideLandingPage} />
       )}
     </div>
   );

@@ -4,6 +4,8 @@ import PropTypes from "prop-types";
 
 import "./styles/LandingPage.css";
 function LandingPage(props) {
+  const { setHideLandingPage } = props;
+
   return (
     <div className="landing-page">
       <h1 className="page-title">YouBike, YouRoad</h1>
@@ -12,7 +14,10 @@ function LandingPage(props) {
         Youbike 讓您快速規劃您的活動。
       </div>
 
-      <div className="button-plan-route" onClick={props.startPlanningIsClicked}>
+      <div
+        className="button-plan-route"
+        onClick={() => setHideLandingPage(true)}
+      >
         規劃路線
       </div>
     </div>
@@ -20,7 +25,7 @@ function LandingPage(props) {
 }
 
 LandingPage.propTypes = {
-  startPlanningIsClicked: PropTypes.func.isRequired,
+  setHideLandingPage: PropTypes.func.isRequired,
 };
 
 export default LandingPage;
